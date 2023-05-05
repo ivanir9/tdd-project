@@ -1,0 +1,3 @@
+O processo de TDD parte da escrita de um teste funcional. Se ele não roda, é necessário criar código que ajude a resolver o problema.
+Antes de escrever o código, o programador parte para a criação de um teste de unidade, implementando as funcionalidades gradualmente até que esses testes passem.
+Uma vez com o teste rodando, são feitos ajustes de refatoração. A mesma volta se aplica para o teste funcional.
